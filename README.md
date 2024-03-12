@@ -142,7 +142,6 @@ else:
 ~~~
 
 ## OUTPUT:
-Mention the first and second policies along with its state value function and compare them
 ## Policy 1:
 <img width="698" alt="image" src="https://github.com/KoduruSanathKumarReddy/rl-policy-evaluation/assets/69503902/8786951e-d37a-44b1-8689-acc57f73cdcf">
 <img width="735" alt="image" src="https://github.com/KoduruSanathKumarReddy/rl-policy-evaluation/assets/69503902/29dc94ee-1c14-4213-8bce-b2c77f117743">
