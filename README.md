@@ -161,6 +161,9 @@ else:
 
 <img width="726" alt="image" src="https://github.com/KoduruSanathKumarReddy/rl-policy-evaluation/assets/69503902/acc5aac5-df0c-4f5a-8ef8-447f1e9eae00">
 
+<img width="760" alt="image" src="https://github.com/KoduruSanathKumarReddy/rl-policy-evaluation/assets/69503902/45edd036-0930-4f05-bc34-41d48a8a51ef">
+
+
 ## RESULT:
 
 Therefore a Python program has been developed to evaluate the two policies.
