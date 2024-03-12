@@ -96,6 +96,9 @@ print('Reaches goal {:.2f}%. Obtains an average undiscounted return of {:.4f}.'.
 ~~~
 ## Second Policy
 ~~~
+Developed by: Koduru Sanath Kumar Reddy
+Reg no: 212221240024
+
 pi_2= lambda s:{
     0:LEFT,1:RIGHT,2:LEFT,3:LEFT,4:RIGHT,5:LEFT,6:RIGHT
 }[s]
@@ -143,11 +146,15 @@ else:
 
 ## OUTPUT:
 ## Policy 1:
-<img width="698" alt="image" src="https://github.com/KoduruSanathKumarReddy/rl-policy-evaluation/assets/69503902/8786951e-d37a-44b1-8689-acc57f73cdcf">
+<img width="760" alt="image" src="https://github.com/KoduruSanathKumarReddy/rl-policy-evaluation/assets/69503902/290500ee-b674-4e4f-bc45-dd53b6ca8c9e">
+
+
 <img width="735" alt="image" src="https://github.com/KoduruSanathKumarReddy/rl-policy-evaluation/assets/69503902/29dc94ee-1c14-4213-8bce-b2c77f117743">
 
 ## Policy 2:
-<img width="735" alt="image" src="https://github.com/KoduruSanathKumarReddy/rl-policy-evaluation/assets/69503902/e6028815-421c-4c40-bce1-715008bce0aa">
+<img width="760" alt="image" src="https://github.com/KoduruSanathKumarReddy/rl-policy-evaluation/assets/69503902/a19d0219-ec8d-4aa9-82a7-a161473dc369">
+
+
 <img width="726" alt="image" src="https://github.com/KoduruSanathKumarReddy/rl-policy-evaluation/assets/69503902/ec019158-4761-4f69-afd8-343b161c2114">
 
 ## Comparision:
